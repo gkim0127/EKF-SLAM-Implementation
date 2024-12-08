@@ -15,3 +15,6 @@ Compsys 732 project
 - Landmark extraction
 - Implement the EKF-SLAM algorithm
 - Explore what happens if you add more or less landmarks while traversing the environment
+
+## Autonomous mowing robot design report
+- Designing autonomous mowing robot with specifications
